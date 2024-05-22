@@ -1,0 +1,109 @@
+.container{
+    height: 18%;
+    width: 98%;
+    background-color:#42e4d4 ;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#remove-btn{
+ position: relative;
+ left: 50px;
+ 
+
+}
+#edit-btn{
+    position: relative;
+    left: 50px;
+   
+}
+.book-data{
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+
+.input1{
+    right: 50px;
+    width: 4%;
+    height: 80%;
+    position: relative;
+
+    right: 60px;
+text-align: center;
+ 
+  
+}
+.input2{
+    width: 11%;
+    height: 80%;
+    position: relative;
+    text-align: center;
+
+    right: 99px;
+    
+  
+
+}
+.input3{
+    width: 10%;
+    height: 80%;
+    position: relative;
+    text-align: center;
+
+    right: 70px;
+  
+  
+}
+.input4{
+    width: 7%;
+    height: 77%;
+    position: relative;
+    text-align: center;
+    right: 15px;
+  
+  
+}
+span:nth-child(1){
+    position: relative;
+    right: 50px;
+    width: 2%;
+    height: 45%;
+ 
+}
+span:nth-child(2){
+    position: relative;
+    right: 55px;
+    width: 15%;
+    height: 45%;
+   
+
+}
+span:nth-child(3){
+    position: relative;
+    right: 45px;
+    width: 12%;
+    height: 45%;
+   
+}
+span:nth-child(4){
+    position: relative;
+    right: -10px;
+     width: 8%;
+    height: 55%;
+    
+}
+.material-symbols-outlined{
+    color: red;
+    cursor: pointer;
+    
+   
+}
+.material-symbols-outlined:hover{
+    color: rgb(237, 9, 9);
+}

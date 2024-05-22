@@ -1,0 +1,47 @@
+
+.addbook-container{
+    height: 78%;
+    width: 37%;
+    background-color: #88CECE;
+    display: flex;
+    margin-top: -7px;
+
+    border-radius: 5px;
+ 
+}
+
+form{
+   height: 65%;
+   width: 100%;
+ 
+}
+input{
+   width: 95%;
+   height: 12%;
+   margin-top: 1%;
+   margin-left: 8px;
+   font-size: 20px;
+   border: 1px solid rgb(108, 108, 201);
+   border-radius: 5px;
+   
+}
+label{
+    margin: 10px;
+    position: relative;
+    top: 20px;
+    left: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.add-btn{
+    margin-top: 35px;
+    height: 12%;
+    width: 95%;
+    margin-left: 8px;
+
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}

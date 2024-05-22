@@ -1,0 +1,26 @@
+
+.con{
+   
+    width: 100%;
+    margin: 20px auto;
+    height: 61vh;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h2 {
+    color: #333;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+/* .list{
+
+    position: relative;
+    top: 17rem;
+    right: 400px;
+} */
